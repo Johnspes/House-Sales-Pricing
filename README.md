@@ -32,8 +32,8 @@ The dataset contains 21 columns:
 The contains 21597 rows and 21 columns.
 ### Info
 The dataset contains three data types in our dataset. Waterfront, view and yr_renovated has missing values.
-### MODELLING
+### 5. MODELLING
 I used three modelling to check the best fit for our dependent variable.
-### CONCLUSION
+### 6. CONCLUSION
 Polynomial Model was the best fit for predicting price for the dataset.
 Relationship between home renovation and the price: An increase of 1 in yr_renovated is associated with an increase of about 115 in price.
