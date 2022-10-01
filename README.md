@@ -36,3 +36,4 @@ The dataset contains three data types in our dataset. Waterfront, view and yr_re
 I used three modelling to check the best fit for our dependent variable.
 ### CONCLUSION
 Polynomial Model was the best fit for predicting price for the dataset.
+Relationship between home renovation and the price: An increase of 1 in yr_renovated is associated with an increase of about 115 in price.
