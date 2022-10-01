@@ -5,7 +5,7 @@ Welcome to my analysis. In this analysys I used various regression methods and t
 In the housing market, the understanding of factors that affect house prices is fundamental for the business.For real estate to advice there clients who are the home buyers and the home sellers they, need to look at the factors affecting the price of the homes in King County, Washington in the United States. We also provide advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount.
 ## 3. Data Understanding
 We will use (House Sales in King County, USA) dataset for our analysis obtained Kaggle. This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
-The dataset contains 21 columns:
+The dataset contains 21 columns: 
 1 = id - Unique identifier for a house
 2 = date - Date house was sold
 3 = price - Sale price (prediction target)
